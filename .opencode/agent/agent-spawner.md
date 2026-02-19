@@ -174,4 +174,4 @@ tools: { write: true, edit: true, bash: true, read: true, grep: true, glob: true
 - **vs swarm-coordinator**: Agent-spawner creates agents; Swarm-coordinator manages operations
 - **vs task-router**: Agent-spawner provisions capabilities; Task-router assigns work
 - **vs hive-queen-tactical**: Agent-spawner is factory; Tactical directs overall execution
-- **vs the spawned agent**: Agent-spawner creates configuration; spawned agent does the work
+- **vs the spawned agent**: Agent-spawner creates configuration; spawned agent does the work.
